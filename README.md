@@ -1,16 +1,25 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Win11Strove/Win11Strove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm **Win11Strove**, a passionate blockchain enthusiast and developer. My main focus is on setting up nodes and configuring validators, ensuring the security and reliability of decentralized networks. 
 
-Here are some ideas to get you started:
+### What I Do
+- 🚀 **Node Setup**: I specialize in deploying and managing nodes across various blockchain networks.
+- 🔐 **Validator Configuration**: I configure validators to maintain consensus and security within blockchain ecosystems.
+- 💡 **Blockchain Exploration**: Constantly exploring new protocols and technologies to stay ahead in the fast-evolving blockchain space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Guides
+- 📚 [0g Validator Guide](https://github.com/Win11Strove/0gValidatorGuide)
+- 📚 [Babylonchain Guide](https://github.com/Win11Strove/BabylonchainGuide)
+
+### Skills & Tools
+- **Blockchain Platforms**: Ethereum, Cosmos, Polkadot, and more
+- **Languages**: Python, Go, Shell scripting, Solidity
+- **Tools**: Docker, Ansible, Kubernetes
+
+### Connect with Me
+- [GitHub](https://github.com/Win11Strove)
+- [Twitter](https://x.com/win11strove)
+- [Discord](https://discordapp.com/users/846417832328822834)
+- [Medium](https://medium.com/@win11strove)
+
+Let's build the decentralized future together! 🚀
